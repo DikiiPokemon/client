@@ -1,0 +1,63 @@
+.FiveWrapper{
+    position: relative;
+    display: flex;
+    width: 100vw;
+    height: 216vw;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+    color: #FFF;
+    font-family: 'Zametka_Parletter';
+    font-size: 8.2vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.FiveHeader{
+    margin-top: 17.7vw;
+}
+
+.Point{
+    height: 14.1vw;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+}
+
+.me{
+    margin-left: 2.3vw;
+    width: 67vw;
+    color: #FFF;
+    font-family: 'Clancy', sans-serif;
+    font-size: 3.8vw;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.NumImg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 13.6vw;
+    height: 13.6vw;   
+    margin-left: 4.1vw;
+    background-image: url('./images/PointMark.svg');
+    background-size: 100%;
+}
+
+.FooterImg{
+    position: absolute;
+    width: 77.7vw;
+    height: 64.1vw;
+    top: 151.5vw;
+    left: 15.1vw;
+    background-image: url('./images/Maxik.svg');
+    background-size: 100%;
+}
+
+.FooterLess{
+    height: 51.1vw;
+}

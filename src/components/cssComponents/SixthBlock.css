@@ -1,0 +1,93 @@
+.SixWrapper{
+    display: flex;
+    width: 100vw;
+    height: 216vw;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+    color: #FFF;
+    font-family: 'Zametka_Parletter';
+    font-size: 7.7vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.SixHeader{
+    width: 64.1vw;
+    margin-top: 8.4vw;
+    margin-bottom: 6.4vw;
+}
+
+.Price{
+    width: 70.5vw;
+    height: 42.3vw;
+    background-color: #8A7AED;
+    border-radius: 5.4vw;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 15vw;
+}
+
+.PlanOption{
+    width: 50.3vw;
+    height: 9.7vw;
+    position: absolute;
+    background-image: url('./images/OptHeader.svg');
+    background-size: 100%;
+    top: -4.6vw;
+    left: 0;
+    font-size: 3.4vw;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-bottom: 3.1vw;
+    z-index: 1;
+}
+
+
+.PlanPlus{
+    margin-top: 8.2vw;
+    margin-left: 6.9vw;
+
+}
+
+.PlanPrice{
+    color: #7162F1;
+    width: 34.6vw;
+    height: 11vw;
+    border-radius: 76.9vw;
+    background: #FFF;
+    font-size: 5.6vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.PriceWrap{
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 33.8vw;
+    left: 45.9lvw;
+    width: 36.2vw;
+    height: 12.6vw;
+    background-image: url('./images/PriceBord.svg');
+    background-size: 100%;
+}
+
+
+li{
+    font-family: 'Clancy', sans-serif;
+    font-size: 3.6vw;
+    line-height: normal;
+    margin-right: 10vw;
+}
+
+

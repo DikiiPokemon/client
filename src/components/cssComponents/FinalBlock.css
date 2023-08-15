@@ -1,0 +1,76 @@
+.FinalWrapper{
+    display: flex;
+    width: 100vw;
+    height: 216vw;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+    color: #FFF;
+    font-family: 'Zametka_Parletter';
+    font-size: 8.2vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.FinalHeader{
+    width: 51.3vw;
+    height: 25.6vw;
+    margin-top: 27.7vw;
+}
+
+.FirstHref{
+    margin-top: 20.5vw;
+    width: 77.4vw;
+    height: 14.4vw;
+    border-radius: 76.9vw;
+    border: 0.5vw solid #FAFAFA;
+    color: #FFF;
+    font-family: 'Clancy', sans-serif;
+    font-size: 9.5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SecondHref{
+    margin-top: 13.8vw;
+    width: 77.4vw;
+    height: 14.4vw;
+    border-radius: 76.9vw;
+    border: 0.5vw solid #FAFAFA;
+    color: #FFF;
+    font-family: 'Clancy', sans-serif;
+    font-size: 9.5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ThirdHref{
+    margin-top: 13.8vw;
+    width: 77.4vw;
+    height: 14.4vw;
+    border-radius: 76.9vw;
+    border: 0.5vw solid #FAFAFA;
+    color: #FFF;
+    font-family: 'Clancy', sans-serif;
+    font-size: 9.5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.FooterMax{
+    width: 97vw;
+    height: 93vw;
+    background-image: url('./images/Max&Hus.svg');
+    background-size: 100%;
+    margin-bottom: 0;
+}
+
+a{
+    color: inherit;
+    text-decoration: inherit;
+}

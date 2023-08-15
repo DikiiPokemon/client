@@ -1,0 +1,75 @@
+
+
+.ThirdWrapper{
+    display: flex;
+    width: 100vw;
+    height: 216vw;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+    color: #FFF;
+    font-family: 'Zametka_Parletter';
+    font-size: 8.2vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.ThirdHeader{
+    width: 92.3vw;
+    height: 17.7vw;
+    margin-top: 17.7vw;
+    margin-left: 6.4vw;
+}
+
+.Step{
+    margin-left: 4.1vw;
+    width: 32.3vw;
+    height: 9.5vw;
+    transform: rotate(-11.367deg);
+}
+
+.StepB{
+    margin-right: 4.6vw;
+    margin-left: 17.2vw;
+    margin-top: 0;
+    font-size: 4.1vw;
+    font-family: 'Clancy', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.Footer{
+    width: 96.9vw;
+    height: 9.7vw;
+    font-size: 5.1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 19.7vw;
+    margin-right: 3.1vw;
+    font-size: 5.1vw;
+}
+
+.Outside{
+    width: 54.6vw;
+    height: 9.7vw;
+    border-radius: 76.9vw;
+    border: 0.2px solid #FFF;
+    background: #FFF;
+    color: #C19AC9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ImgLine{
+    float: right;
+    width: 58.7vw;
+    height: 1.5vw;
+    background: #7162F1;
+    background-image: url('./images/LineThird.svg');
+    background-size: 100%;
+    
+}
+

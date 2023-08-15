@@ -1,0 +1,162 @@
+.FourthWrapper{
+    display: flex;
+    width: 100vw;
+    height: 216vw;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+    color: #FFF;
+    font-family: 'Zametka_Parletter';
+    font-size: 8.2vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.FourthHeader{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    width: 75.2vw;
+    height: 22.6vw;
+    margin-top: 8.5vw;
+    margin-left: 8.2vw;
+}
+
+
+
+.ImgQ{
+    position: absolute;
+    left: 47.4vw;
+    top: 9.3vw;
+    float: right;
+    margin-right: 35.6vw;
+    width: 5.5vw;
+    height: 9.5vw;
+    background-image: url('./images/Question.svg');
+    background-size: cover;
+}
+
+.PointWrapper{
+    height: 164vw;
+    width: 100vw;
+    display: flex;
+    margin-top: 2.6vw;
+    margin-bottom: 18.9vw;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.Point1{
+    margin-left: 3.6vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #FFF;
+    font-family: 'Zametka_Parletter';
+    font-size: 4.1vw;
+    font-style: normal;
+    font-weight: 400;
+    height: 9.7vw;
+    width: 54.9vw;
+}
+
+.NumPoint1{
+    background-image: url('./images/1.svg');
+    width: 3.7vw;
+    height: 9.7vw;
+    background-size: cover;
+}
+
+.BodyPoint{
+    margin-left: 4.4vw;
+}
+
+.BodyText1{
+    background-image: url('./images/1.png');
+    background-size: cover;
+    width: 91.8vw;
+    height: 28.5vw;
+    padding-top: 4.6vw;
+    padding-left: 5.1vw;
+    padding-right: 27vw;
+    
+    color: #FFF;
+    font-family: 'Clancy', sans-serif;
+    font-size: 3.6vw;
+    height: 28.7vw;
+}
+
+.NumPoint2{
+    background-image: url('./images/2.svg');
+    width: 12vw;
+    height: 8.7vw;
+    background-size: cover;
+}
+
+.BodyText2{
+    background-image: url('./images/2.png');
+    background-size: cover;
+    width: 80.8vw;
+    padding-top: 5.5vw;
+    padding-left: 9vw;
+    padding-right: 9.2vw;
+    
+    color: #FFF;
+    font-family: 'Clancy', sans-serif;
+    font-size: 3.6vw;
+    height: 28.7vw;
+    margin-left: 19.2vw;
+}
+
+.Point2{
+    margin-top: 13.1vw;
+    margin-left: 11.3vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #FFF;
+    font-family: 'Zametka_Parletter';
+    font-size: 4.1vw;
+    font-style: normal;
+    font-weight: 400;
+    height: 9.7vw;
+    width: 54.9vw;
+}
+
+.Point3{
+    margin-top: 6.4vw;
+    margin-left: 3.6vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #FFF;
+    font-family: 'Zametka_Parletter';
+    font-size: 4.1vw;
+    font-style: normal;
+    font-weight: 400;
+    height: 9.7vw;
+    width: 54.9vw;
+}
+
+.BodyText3{
+    background-image: url('./images/3.png');
+    background-size: 100%;
+    width: 80.7vw;
+    height: 38.2vw;
+    padding-top: 2.7vw;
+    padding-left: 6.2vw;
+    padding-right: 1.8vw;
+    
+    color: #FFF;
+    font-family: 'Clancy', sans-serif;
+    font-size: 3.6vw;
+    height: 28.7vw;
+}
+
+.NumPoint3{
+    background-image: url('./images/3.svg');
+    width: 13vw;
+    height: 10vw;
+    background-size: cover;
+}

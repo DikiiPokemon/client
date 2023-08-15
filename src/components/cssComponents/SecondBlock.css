@@ -1,0 +1,154 @@
+.SecondWrapper{
+    display: flex;
+    width: 100vw;
+    height: 216vw;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.Header{
+    margin-top: 10.3vw;
+    color: #FFF;
+    font-family: 'Zametka_Parletter';
+    font-size: 8.2vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    flex-direction: column;
+    padding-left: 5.1vw;
+}
+
+.GH{
+    color: #BDD35A;
+}
+
+.FirstBlockBody{
+    padding-left: 21.3vw;
+    padding-top: 2.8vw;
+    margin-right: 18.2vw;
+    margin-left: -8.97vw;
+    color: #000;
+
+    text-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+    font-family: 'Clancy', sans-serif;
+    font-size: 4.1vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 124.7%;
+    width: 90.8vw;
+    height: 20.3vw;
+    border-radius: 5.4vw;
+    border: 0.77vw solid #C19AC9;
+    background: #FFF;
+}
+
+.ComplicateBodyBlock{
+   
+    display: flex;
+    position: relative;
+    height: 119.7vw;
+    width: 100vw;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Owl{
+    position: absolute;
+    top: 13.6vw;
+    z-index: 0;
+    width: 72.3vw;
+    height: 97.2vw;
+    background-image: url('./images/Circle.svg');
+    background-size: cover;
+}
+
+.OwlImg{
+    position: absolute;
+    top: 29vw;
+    width: 64.1vw;
+    height: 62.8vw;
+    background-image: url('./images/Owl.svg');
+    background-size: 100%;
+}
+
+.Points{
+    
+    height: 82.6vw;
+    width: 93.3vw;
+    display: flex;
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 12.3vw;
+    color: #FFF;
+    font-family: 'Clancy', sans-serif;
+    font-size: 4.1vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 117.2%; /* 18.752px */
+}
+
+.FirstPoint{
+   
+    width: 93.3vw;
+    height: 20.8vw;
+    border-radius: 5.4vw;
+    border: 0.8vw solid #F5F5F5;
+    background: #8E7CEE;
+    display: flex;
+    justify-content: flex-start;
+    padding:3.3vw 6.7vw;
+}
+
+.SecondPoint{
+    margin-left: 5.9vw;
+    margin-top: 6.7vw;
+    width: 87.4vw;
+    height: 15.1vw;
+    border-radius: 5.4vw;
+    border: 0.8vw solid #C19AC9;
+    background: #FFF;
+    color: #000;
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 4.1vw;
+    padding-right: 14vw;
+    padding-left: 5.1vw;
+}
+
+.EndPoint{
+    z-index: 1;
+    width: 90.5vw;
+    height: 23.6vw;
+    border-radius: 5.4vw;
+    border:  0.8vw solid #FFF;
+    background: #8F7CEE;
+    margin-left: -3.8vw;
+    padding-left: 10vw;
+    padding-top: 4.3vw;
+    color: #FFF;
+    font-family: 'Clancy', sans-serif;
+    font-size: 4.1vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 128.652%;
+}
+
+.FooterBlock{
+    width: 76.7vw;
+    height: 15.4vw;
+    border-radius: 5.4vw;
+    border: 0.8vw solid #C19AC9;
+    background: #FFF;
+    color: #000;
+    font-family: 'Clancy', sans-serif;
+    font-size: 4.1vw;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 14.6vw;
+    padding-left: 7.4vw;
+    padding-top: 2.2vw;
+    margin-left: 31.8vw;
+}

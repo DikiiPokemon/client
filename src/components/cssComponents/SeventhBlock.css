@@ -1,0 +1,180 @@
+.SevenWrapper{
+    display: flex;
+    width: 100vw;
+    height: 216vw;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+    color: #FFF;
+    font-family: 'Zametka_Parletter';
+    font-size: 8.2vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.SevenHeader{
+    width: 78.5vw;
+    margin-top: 10vw;
+    
+}
+
+.FirstComment{
+    position: relative;
+    margin-top: 10.3vw;
+    width: 90vw;
+    height: 20.5vw;
+    padding-left: 3.8vw;
+    padding-top: 1.3vw;
+    padding-right: 0.5vw;
+    border-radius: 7.2vw 7.2vw 7.2vw 0px;
+    border: 0.3vw solid rgba(0, 0, 0, 0.10);
+    background: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-family: 'Clancy', sans-serif;
+    font-size: 2.8vw;
+}
+
+.SecondComment{
+    position: relative;
+    margin-top: 25.4vw;
+    width: 79.7vw;
+    height: 24.9vw;
+    padding-left: 5.1vw;
+    padding-top: 2.3vw;
+    padding-right: 1vw;
+    border-radius: 9.7vw 9.7vw 0 9.7vw;
+    border: 0.3vw solid rgba(0, 0, 0, 0.10);
+    background: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-family: 'Clancy', sans-serif;
+    font-size: 2.8vw;
+}
+
+.ThirdComment{
+    position: relative;
+    margin-top: 34.6vw;
+    width: 77.4vw;
+    height: 26.7vw;
+    padding-left: 6.2vw;
+    padding-right: 1.5vw;
+    border-radius: 9.7vw 9.7vw 9.7vw 0px;
+    border: 0.3vw solid rgba(0, 0, 0, 0.10);
+    background: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-family: 'Clancy', sans-serif;
+    font-size: 2.8vw;
+}
+
+.FourthComment{
+    position: relative;
+    margin-top: 11.3vw;
+    width: 73.8vw;
+    height: 21.3vw;
+    padding-left: 6.2vw;
+    padding-right: 12.1vw;
+    border-radius: 9.7vw 9.7vw 9.7vw 0px;
+    border: 0.3vw solid rgba(0, 0, 0, 0.10);
+    background: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-family: 'Clancy', sans-serif;
+    font-size: 2.8vw;
+}
+
+.IconFire{
+    position: absolute;
+    left: 78.5vw;
+    top: -13.1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15.1vw;
+    height: 15.1vw;    
+    border-radius: 7.7vw;
+    border: 0.3vw solid rgba(0, 0, 0, 0.15);
+    background: #FFF;
+}
+
+.Fire{
+    background-image: url('./images/FireIco.svg');
+    background-size: 100%;
+    width: 9vw;
+    height: 9vw;
+}
+
+.Huston{
+    position: absolute;
+    top: -23.3vw;
+    left: 29.7vw;
+    height: 23.2vw;
+    width: 27.2vw;
+    background-image: url('./images/HusIco.svg');
+    background-size: 100%;
+    z-index: 0;
+}
+
+.MaxIco{
+    position: absolute;
+    top: -31vw;
+    left: 27.4vw;
+    height: 31vw;
+    width: 30vw;
+    background-image: url('./images/MaxIco.svg');
+    background-size: 100%;
+}
+
+.OooIco{
+    position: absolute;
+    top: 20.3vw;
+    left: -9.2vw;
+    width: 14.9vw;
+    height: 12.6vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7.7vw;
+    border: 0.3vw solid rgba(0, 0, 0, 0.15);
+    background: #FFF;
+}
+
+.Fear{
+    background-image: url('./images/FearIco.svg');
+    background-size: 100%;
+    width: 9vw;
+    height: 9vw;
+}
+
+.OkIco{
+    position: absolute;
+    top: 13.6vw;
+    left: 61.8vw;
+    width: 16.2vw;
+    height: 15.6vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7.7vw;
+    border: 0.3vw solid rgba(0, 0, 0, 0.15);
+    background: #FFF;
+
+}
+
+.Ok{
+    width: 12.8vw;
+    height: 12.8vw;
+    background-image: url('./images/LikeIco.svg');
+    background-size: 100%;
+}
